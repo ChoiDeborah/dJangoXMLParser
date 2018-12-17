@@ -1,0 +1,496 @@
+<!-- 1. A sky lantern released by a Sri Lankan migrant caused the explosion of an the oil tank -->
+<!-- 스리랑카 이주자에 의해 발사된 풍등이 오일 탱크의 폭발을 야키시켰다 -->
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="풍등이">A sky lantern</word>
+    <chunk pos="aj" translation="스리랑카 이주자에 의해 발사된">
+      <part role="trg">
+        <word pos="aj" translation="발사된"> released </word>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="스리랑카 이주자에 의해">
+          <part role="trg">
+            <word pos="pp" translation="의해"> by </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="스리랑카 이주자"> a Sri Lankan migrant </word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="야기시켰다"> caused </word>
+  </part>
+  <part role="obj">
+    <word pos="nn" translation="폭발을"> the explosion </word>
+    <chunk pos="aj" translation="오일 탱크의">
+      <part role="trg">
+        <word pos="pp" translation="의"> of </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="오일 탱크"> the oil tank </word>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 2. A viral disease called MERS has a fatality rate of 46 percent -->
+<!-- 메르스라고 불리는 바이러스성 질환은 46퍼센트의 치사율을 가진다 -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="바이러스성 질환은">A viral disease</word>
+    <chunk pos="aj" translation="메르스라고 불리는">
+      <part role="trg">
+        <word pos="aj" translation="불리는">called</word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="메르스">MERS</word>
+      </part>
+  </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="가지다">has</word>
+  </part>
+  <part role="obj">
+    <word pos="nn" translation="치사율을">a fatality rate</word>
+    <chunk pos="aj" translation="46퍼센트의">
+      <part role="trg">
+        <word pos="pp" translation="의"> of </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="46퍼센트"> 46 percent. </word>
+      </part>
+  </chunk>
+  </part>
+</sentence>
+
+
+<!-- 3. The problem left unsolved remains a major task. -->
+<!-- 해결되지 못한 채 남겨진 그 문제가 핵심적인 과업으로 남아있다.  -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="문제가">The problem</word>
+    <chunk pos="aj" translation="해결되지 못한 채 남겨진">
+      <part role="trg">
+        <word pos="aj" translation="남겨진">left</word>
+      </part>
+      <part role="obj">
+        <word pos="aj" translation="해결되지 못한">unsolved</word>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="남아있다">remains </word>
+  </part>
+  <part role="obj">
+    <word pos="nn" translation="핵심적인 과업으로">a major task.</word>
+  </part>
+</sentence>
+
+
+<!-- 4. Hansel and Gretel written by the Brothers Grimm has been adapted into an opera. -->
+<!-- 그림형제에 의해 쓰여진 헨젤과 그래텔은 오페라로 각색 되었다. -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="헨젤과 그래텔은"> Hansel and Gretel </word>
+    <chunk pos="aj" translation="그림형제에 의해 쓰여진">
+      <part role="trg">
+        <word pos="aj" translation="쓰여진"> written </word>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="그림형제에 의해">
+          <part role="trg">
+            <word pos="pp" translation="의해"> by </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="그림형제"> the Brothers Grimm </word>
+          </part>
+        </chunk>
+      </part>
+  </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="각색 되었다"> has been adapted </word>
+  </part>
+  <part role="obj">
+    <chunk pos="nn" translation="오페라로">
+      <part role="trg">
+        <word pos="pp"translation="으로"> into </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="오페라"> an opera. </word>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 5. Robots developed by researchers at Seoul National University can change their color and shape. -->
+<!-- 서울대학교의 연구원들에 의해 개발된 로봇들은 그들의 색과 형태을 바꿀 수 있다 -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="로봇들은"> Robots </word>
+    <chunk pos="aj" translation="서울대학교의 연구원들에 의해 개발된">
+      <part role="trg">
+        <word pos="aj" translation="개발된"> developed </word>
+      </part>
+      <part role="obj">
+        <chunk pos="av" translation="서울대학교의 연구원들에 의해">
+          <part role="trg">
+            <word pos="pp" translation="의해"> by </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="연구원들"> researchers </word>
+            <chunk pos="aj" translation="서울대학교의">
+              <part role="trg">
+                <word pos="pp" translation="에서"> at </word>
+              </part>
+              <part role="obj">
+                <word pos="nn" translation="서울대학교"> Seoul National University </word>
+              </part>
+            </chunk>
+          </part>
+        </chunk>
+      </part>
+  </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="바꿀 수 있다"> can change </word>
+  </part>
+  <part role="obj">
+    <word pos="nn" translation="그들의 색과 형태를"> their color and shape. </word>
+  </part>
+</sentence>
+
+
+<!-- 6. The market valuation lowered dramatically caused the firm’s recent product recall. -->
+<!-- 급격하게 하향된 시장 평가가 회사의 최근 제품리콜을 야기시켰다 -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="시장 평가가">The market valuation</word>
+    <chunk pos="aj" translation="급격하게 하향된">
+      <part role="trg">
+        <word pos="aj" translation="하향된">lowered</word>
+      </part>
+      <part role="adj">
+        <word pos="av" translation="급격하게">dramatically</word>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="야기시켰다">caused</word>
+  </part>
+  <part role="obj">
+    <word pos="nn" translation="회사의 최근 제품리콜을">the firm’s recent product recall.</word>
+  </part>
+</sentence>
+
+
+<!-- 7. Items damaged completely can exchange from Hanjin shipping. -->
+<!-- 완전히 손상된 제품들은 한진해운으로부터 교환이 가능하다. -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="제품들은">Items</word>
+    <chunk pos="aj" translation="완전히 손상된">
+      <part role="trg">
+        <word pos="aj" translation="손상된">damaged</word>
+      </part>
+      <part role="adj">
+        <word pos="av" translation="완전히">completely</word>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="교환이 가능하다">can exchange</word>
+  </part>
+  <part role="adj">
+    <chunk pos="av" translation="한진해운으로부터">
+      <part role="trg">
+        <word pos="pp" translation="로부터">from</word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="한진해운">Hanjin shipping.</word>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 8. Yongchumun Gate located on the palace has been closed to the public since 1975. -->
+<!-- 궁궐에 위치한 영추문은 1975년부터 대중들에게 닫혀있었다 -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="영추문은"> Yongchumun Gate </word>
+    <chunk pos="aj" translation="궁궐에 위치한">
+      <part role="trg">
+        <word pos="aj" translation="위치시켜진"> located </word>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="궁궐에">
+          <part role="trg">
+            <word pos="pp" translation="에"> on </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="궁궐"> the palace </word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="vb" translation="닫혀있었다"> has been closed </word>
+  </part>
+  <part role="adj">
+    <chunk pos="av" translation="대중들에게">
+      <part role="trg">
+        <word pos="pp" translation="에게"> to </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="대중"> the public </word>
+      </part>
+    </chunk>
+  </part>
+  <part role="adj">
+    <chunk pos="av" translation="1975년부터">
+      <part role="trg">
+        <word pos="pp" translation="부터"> since </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="1975"> 1975. </word>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 9.	A new laptop / optimized for gaming content / was released /by LG Electronics Inc. -->
+<!-- 게임컨텐츠를 위해 최적화된 새로운 노트북이 엘지전자에서 출시되었다 -->
+
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="새로운 노트북이"> A new laptop </word>
+    <chunk pos="aj" translation="게임컨텐츠를 위해 최적화된">
+      <part role="trg">
+        <word pos="aj" translation="최적화된"> optimized </word>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="게임컨텐츠를 위해">
+          <part role="trg">
+            <word pos="pp" translation="위한"> for </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="게임 컨텐츠를"> gaming content </word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="be" translation="(상태가)되었다"> was </word>
+  </part>
+  <part role="cpm">
+   <chunk pos="aj" translation="엘지전자에서 출시된">
+      <part role="trg">
+        <word pos="aj" translation="출시된"> released </word>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="엘지전자에서">
+          <part role="trg">
+            <word pos="pp" translation="로부터"> by </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="엘지전자"> LG Electronics Inc </word>
+          </part>
+        </chunk>
+      </chunk>
+    </part>
+</sentence>
+
+
+<!-- 10. Typhoon Kong-Rey expected to bring heavy rains and strong winds was outside the area of influence. -->
+<!-- 폭우와 강풍을 가져올 것으로 예상되는 태풍 콩레이는 영향의 지역 밖에 있었다. -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="태풍 콩레이는"> Typhoon Kong-Rey </word>
+    <chunk pos="aj" translation="폭우와 강풍을 가져올 것으로 예상되는">
+      <part role="trg">
+        <word pos="aj" translation="예상되는">expected</word>
+      </part>
+      <part role="obj">
+        <chunk pos="nn" translation="폭우와 강풍을 가져올 것으로">
+          <part role="trg">
+            <word pos="pp" translation="것">to</word>
+          </part>
+          <part role="prd">
+            <word pos="vb" translation="가져오다">bring</word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="폭우와 강풍을">heavy rains and strong winds</word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="be" translation="(상황)이었다">was</word>
+  </part>
+  <part role="cmd">
+    <chunk pos="aj" translation="영향의 지역 밖인">
+      <part role="trg">
+        <word pos="pp" translation="밖으로">outside</word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="지역">the area</word>
+        <chunk pos="aj" translation="영향의">
+          <part role="trg">
+            <word pos="pp" translation="의">of</word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="영향">influence.</word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 11. Powerful typhoon / named Soulik /is /moving north toward the Korean Peninsula. -->
+<!-- 솔릭이라고 이름 붙여진 강력한 태풍이 한반도를 향하여 북쪽으로 이동중이다 -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="강력한 태풍이">Powerful typhoon</word>
+    <chunk pos="aj" translation="솔릭이라고 이름 붙여진">
+      <part role="trg">
+        <word pos="aj" translation="이름 붙여진">named</word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="솔릭">Soulik</word>
+      </part>
+   </chunk>
+  </part>
+  <part role="prd">
+    <word pos="be" translation="(상황)이다">is</word>
+  </part>
+  <part role="cpm">
+    <chunk pos="aj" translation="한반도를 향하여 북쪽으로 이동중인">
+      <part role="adj">
+        <chunk pos="aj" translation="북쪽으로 이동중인">
+          <part role="trg">
+            <word pos="aj" translation="이동중인">moving</word>
+          </part>
+          <part role="adj">
+            <word pos="av" translation="북쪽으로">north</word>
+          </part>
+        </chunk>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="한반도를 향하여">
+          <part role="trg">
+            <word pos="pp" translation="향하여">toward</word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="한반도">the Korean Peninsula.</word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 12. Customers /offered free tickets by CGV / are / students / who took the CSAT. -->
+<!-- CGV로부터 무료 티켓을 제공받은 고객들은 CSAT를 수강하는 학생들이다 -->
+
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="고객들은"> Customers </word>
+    <chunk pos="aj" translation="CGV로부터 무료 티켓을 제공받은">
+      <part role="trg">
+        <word pos="aj" translation="제공받은"> offered </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="무료 티켓을"> free tickets </word>
+      </part>
+      <part role="adj">
+        <chunk pos="av" translation="CGV로 부터">
+          <part role="trg">
+            <word pos="pp" translation="로부터"> by </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="CGV"> CGV </word>
+          </part>
+        </chunk>
+      </part>
+    </chunk>
+  </part>
+  <part role="prd">
+    <word pos="be" translation="이다"> are </word>
+  </part>
+  <part role="cpm">
+    <word pos="nn" translation="학생들"> students </word>
+    <chunk pos="aj" translation="CSAT를 수강하는">
+      <part role="trg">
+        <word pos="cj" translation="학생들이"> who </word>
+      </part>
+      <part role="prd">
+        <word pos="vb" translation="수강했다"> took </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="CSAT를"> the CSAT </word>
+      </part>
+    </chunk>
+  </part>
+</sentence>
+
+
+<!-- 13. A new speaker system introduced by New Wave Tech is compatible with most mobile devices. -->
+<!-- 뉴 웨이브 테크로부터 소개된 새로운 스피커 시스템은 대부분의 모바일 기기와 호환가능하다. -->
+
+<sentence>
+  <part role="sbj">
+    <word pos="nn" translation="새로운 스피커 시스템은"> A new speaker system </word>
+    <chunk pos="aj" translation="뉴 웨이브 테크로부터 소개된">
+      <part role="trg">
+        <word pos="aj" translation="소개된"> introduced </word>
+      </part>
+      <part role="obj">
+        <chunk pos="av" translation="뉴 웨이브 테크로부터">
+          <part role="trg">
+            <word pos="pp" translation="로부터"> by </word>
+          </part>
+          <part role="obj">
+            <word pos="nn" translation="뉴 웨이브 테크"> New Wave Tech </word>
+          </part>
+        </chunk>
+      </part>
+  </chunk>
+  </part>
+  <part role="prd">
+    <word pos="be" translation="(상태)이다"> is </word>
+  </part>
+  <part role="cpm">
+    <word pos="aj" translation="호환가능한"> compatible </word>
+    <chunk pos="av" translation="대부분의 모바일기기와">
+      <part role="trg"> 
+        <word pos="pp" translation="와"> with </word>
+      </part>
+      <part role="obj">
+        <word pos="nn" translation="대부분의 모바일기기"> most mobile devices </word>
+      </part>
+    </chunk>
+  </part>
+</sentence>
