@@ -181,11 +181,9 @@
       </part>
     </chunk>
   </part>
-
   <part role="pct">
     <word pos="pt" translation="">,</word>
   </part>
-
   <part role="sbj">
     <word pos="nn" translation="당신은"> You </word>
   </part>
@@ -228,11 +226,9 @@
       </part>
     </chunk>
   </part>
-
   <part role="pct">
     <word pos="pt" translation="">,</word>
   </part>
-
 </sentence>
 
 
@@ -562,11 +558,9 @@
       </part>
     </chunk>
   </part>
-
   <part role="pct">
     <word pos="pt" translation="">,</word>
   </part>
-
   <part role="lnk">
     <word pos="cj" translation="그러면"> then </word>
   </part>
@@ -718,11 +712,9 @@
   <part role="obj">
     <word pos="nn" translation="대지를"> the Earth </word>
   </part>
-
   <part role="lnk">
     <word pos="cj" translation="그리고 더욱이"> and still </word>
   </part>
-
   <part role="sbj">
     <word pos="nn" translation="모든 것은" annotation="대명사:부정:all"> all </word>
     <chunk pos="aj" translation="당신이 가질 수 있는" annotation="형용사절:접속사생략">

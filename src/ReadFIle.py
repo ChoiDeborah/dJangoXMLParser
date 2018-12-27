@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 import xml.etree.ElementTree as ET
 
-path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Bible Quotes - Various.xml"
-
-# print(note)
+path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Forrest Gump Quotes.xml"
 
 
 f = open(path, 'r')
@@ -26,12 +24,10 @@ while True:
             root = ET.fromstring(string)
             print(root.tag)
             string = ""
-
             isline = False
 
 f.close()
 
-# p
 
 # for child in root:
 #    print child.tag, child.attrib
