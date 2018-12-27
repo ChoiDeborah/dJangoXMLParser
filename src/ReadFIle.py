@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import xml.etree.ElementTree as ET
 
-path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Hero - Mariah Carey.xml"
+path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Imagine - John Lennon.xml"
 
 
 f = open(path, 'r')
