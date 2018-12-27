@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c12a3a0-7194-4bd5-a8b0-3deadcbcf4a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/ReadFIle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadFIle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Bible Quotes - Various.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Bible Quotes - Various.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,24 +12,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dJangoXMLParser$ReadFIle.coverage" NAME="ReadFIle Coverage Results" MODIFIED="1545875407302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dJangoXMLParser$ReadFIle.coverage" NAME="ReadFIle Coverage Results" MODIFIED="1545876052690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReadFIle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="101" selection-start-line="3" selection-start-column="101" selection-end-line="3" selection-end-column="101" />
+              <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="644" column="11" lean-forward="true" selection-start-line="644" selection-start-column="11" selection-end-line="644" selection-end-column="11" />
+            <state relative-caret-position="398">
+              <caret line="125" column="2" selection-start-line="125" selection-start-column="2" selection-end-line="125" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -45,49 +44,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/Example_Sentences_181216.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1131">
-              <caret line="733" column="11" selection-start-line="733" selection-start-column="11" selection-end-line="733" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/test.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Oscar Wilde Quotes - Oscar Wilde.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Reflection - Mulan of Disney.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -124,6 +86,7 @@
         <option value="$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml" />
         <option value="$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml" />
         <option value="$PROJECT_DIR$/src/ReadFIle.py" />
+        <option value="$PROJECT_DIR$/xml/Bible Quotes - Various.xml" />
       </list>
     </option>
   </component>
@@ -143,11 +106,6 @@
             <path>
               <item name="dJangoXMLParser" type="b2602c69:ProjectViewProjectNode" />
               <item name="dJangoXMLParser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dJangoXMLParser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dJangoXMLParser" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dJangoXMLParser" type="b2602c69:ProjectViewProjectNode" />
@@ -173,12 +131,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/example" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/example" />
       <recent name="$PROJECT_DIR$/xml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -239,12 +198,12 @@
       <workItem from="1544664938752" duration="105000" />
       <workItem from="1544673978701" duration="255000" />
       <workItem from="1545023400329" duration="9454000" />
-      <workItem from="1545871567628" duration="3675000" />
+      <workItem from="1545871567628" duration="4211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21839000" />
+    <option name="totallyTimeSpent" value="22375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -280,88 +239,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -379,9 +256,6 @@
           <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/example/Example_Sentences_181216.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -438,7 +312,14 @@
     <entry file="file://$PROJECT_DIR$/src/ReadFIle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="101" selection-start-line="3" selection-start-column="101" selection-end-line="3" selection-end-column="101" />
+          <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="125" column="2" selection-start-line="125" selection-start-column="2" selection-end-line="125" selection-end-column="2" />
         </state>
       </provider>
     </entry>

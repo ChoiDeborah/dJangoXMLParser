@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import xml.etree.ElementTree as ET
 
-path = "/Users/deborah/Desktop/dJangoXMLParser/xml/2005 Stanford Commencement Speech - Steve Jobs.xml"
+path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Bible Quotes - Various.xml"
 
 # print(note)
 
