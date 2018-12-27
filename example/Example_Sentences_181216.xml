@@ -112,7 +112,7 @@
           </part>
         </chunk>
       </part>
-  </chunk>
+    </chunk>
   </part>
   <part role="prd">
     <word pos="vb" translation="각색 되었다"> has been adapted </word>
@@ -120,7 +120,7 @@
   <part role="obj">
     <chunk pos="nn" translation="오페라로">
       <part role="trg">
-        <word pos="pp"translation="으로"> into </word>
+        <word pos="pp" translation="으로"> into </word>
       </part>
       <part role="obj">
         <word pos="nn" translation="오페라"> an opera. </word>
@@ -312,8 +312,9 @@
             <word pos="nn" translation="엘지전자"> LG Electronics Inc </word>
           </part>
         </chunk>
-      </chunk>
-    </part>
+      </part>
+    </chunk>
+  </part>
 </sentence>
 
 
