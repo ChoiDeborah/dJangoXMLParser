@@ -25,10 +25,7 @@
     <word pos="vb" translation="다시 새롭게 할 것이다"> will renew </word>
   </part>
   <part role="obj">
-    <word pos="nn" translation="그들의 힘을"> their strength </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation="">;</word>
+    <word pos="nn" translation="그들의 힘을"> their strength; </word>
   </part>
   <part role="sbj">
     <word pos="nn" translation="그들은"> They </word>
@@ -67,19 +64,13 @@
   <part role="cpm">
     <word pos="aj" translation="강한"> strong </word>
     <word pos="cj" translation="그리고"> and </word>
-    <word pos="aj" translation="용감한"> courageous </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation="">;</word>
+    <word pos="aj" translation="용감한"> courageous; </word>
   </part>
   <part role="prd">
     <word pos="be" translation="(상태)이지 말아라" annotation="be동사:상태"> Do not be </word>
   </part>
   <part role="cpm">
-    <word pos="aj" translation="두려운"> afraid </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation="">;</word>
+    <word pos="aj" translation="두려운"> afraid;</word>
   </part>
   <part role="prd">
     <word pos="be" translation="(상태)이지 말아라" annotation="be동사:상태"> Do not be </word>
@@ -366,10 +357,7 @@
     <word pos="be" translation="(상태)이다" annotation="be동사:상태"> is </word>
   </part>
   <part role="cpm">
-    <word pos="aj" translation="신실한"> faithful </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation="">;</word>
+    <word pos="aj" translation="신실한"> faithful; </word>
   </part>
   <part role="sbj">
     <word pos="nn" translation="그는"> he </word>
@@ -570,14 +558,11 @@
             <word pos="pp" translation="함께" annotation="전치사:with"> with </word>
           </part>
           <part role="obj">
-            <word pos="nn" translation="나를"> me </word>
+            <word pos="nn" translation="나를"> me; </word>
           </part>
         </chunk>
       </part>
     </chunk>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation="">;</word>
   </part>
   <part role="sbj">
     <word pos="nn" translation="당신의 막대기"> your rod </word>
@@ -606,10 +591,7 @@
     <word pos="vb" translation="주다"> give </word>
   </part>
   <part role="obj">
-    <word pos="nn" translation="너에게"> you </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation="">;</word>
+    <word pos="nn" translation="너에게"> you; </word>
   </part>
   <part role="prd">
     <word pos="vb" translation="사랑하라"> Love </word>

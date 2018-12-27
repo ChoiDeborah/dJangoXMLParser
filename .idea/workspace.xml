@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c12a3a0-7194-4bd5-a8b0-3deadcbcf4a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReadFIle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadFIle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/Color of the Wind - Pocahontas by Disney.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Color of the Wind - Pocahontas by Disney.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/Einstein Quotes - Albert Einstein.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Einstein Quotes - Albert Einstein.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/Forrest Gump Quotes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/Forrest Gump Quotes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Bible Quotes - Various.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Color of the Wind - Pocahontas by Disney.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Einstein Quotes - Albert Einstein.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Forrest Gump Quotes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Hero - Mariah Carey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Imagine - John Lennon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Little Prince - Saint Exupery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Oscar Wilde Quotes - Oscar Wilde.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Reflection - Mulan of Disney.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/Zootopia Quotes - Zootopia of Disney.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,32 +25,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dJangoXMLParser$ReadFIle.coverage" NAME="ReadFIle Coverage Results" MODIFIED="1545876737407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/dJangoXMLParser$ReadFIle.coverage" NAME="ReadFIle Coverage Results" MODIFIED="1545896462829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="DockManager">
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/xml/Color of the Wind - Pocahontas by Disney.xml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="502">
-                    <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/xml/Forrest Gump Quotes.xml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="902">
-                    <caret line="736" column="11" selection-start-line="736" selection-start-column="11" selection-end-line="736" selection-end-column="11" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
+          <leaf />
         </state>
       </content>
     </window>
@@ -49,17 +41,34 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReadFIle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+            <state relative-caret-position="359">
+              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+              <folding>
+                <element signature="e#24#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml">
+        <entry file="file://$PROJECT_DIR$/xml/3.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="125" column="2" selection-start-line="125" selection-start-column="2" selection-end-line="125" selection-end-column="2" />
+            <state relative-caret-position="-9046" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xml/2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8801" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xml/1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="727" column="9" lean-forward="true" selection-start-line="727" selection-start-column="9" selection-end-line="727" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -85,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/etree/ElementTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19605">
-              <caret line="1315" selection-start-line="1315" selection-end-line="1315" />
+            <state relative-caret-position="156">
+              <caret line="1314" selection-start-line="1314" selection-end-line="1314" />
             </state>
           </provider>
         </entry>
@@ -116,8 +125,9 @@
         <option value="$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml" />
         <option value="$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml" />
         <option value="$PROJECT_DIR$/xml/Bible Quotes - Various.xml" />
-        <option value="$PROJECT_DIR$/src/ReadFIle.py" />
         <option value="$PROJECT_DIR$/xml/Forrest Gump Quotes.xml" />
+        <option value="$PROJECT_DIR$/xml/1.xml" />
+        <option value="$PROJECT_DIR$/src/ReadFIle.py" />
       </list>
     </option>
   </component>
@@ -131,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,6 +170,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -230,32 +241,43 @@
       <workItem from="1544673978701" duration="255000" />
       <workItem from="1545023400329" duration="9454000" />
       <workItem from="1545871567628" duration="5094000" />
+      <workItem from="1545887976906" duration="1310000" />
+      <workItem from="1545892968060" duration="3471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23258000" />
+    <option name="totallyTimeSpent" value="28039000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32924336" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32866243" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,6 +292,33 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ReadFIle.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -281,34 +330,26 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/xml/practice.xml" />
-    <entry file="file://$PROJECT_DIR$/xml/Zootopia Quotes - Zootopia of Disney.xml">
+    <entry file="file://$PROJECT_DIR$/xml/Zootopia Quotes - Zootopia of Disney.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/test.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/Oscar Wilde Quotes - Oscar Wilde.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/Reflection - Mulan of Disney.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/Color of the Wind - Pocahontas by Disney.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/Forrest Gump Quotes.xml" />
+    <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml" />
+    <entry file="file://$PROJECT_DIR$/example/Example_Sentences_181216.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Oscar Wilde Quotes - Oscar Wilde.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Reflection - Mulan of Disney.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/xml/etree/ElementTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19605">
-          <caret line="1315" selection-start-line="1315" selection-end-line="1315" />
+        <state relative-caret-position="156">
+          <caret line="1314" selection-start-line="1314" selection-end-line="1314" />
         </state>
       </provider>
     </entry>
@@ -319,52 +360,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Bernard Shaw Quotes - George Bernard Shaw.xml">
+    <entry file="file://$PROJECT_DIR$/xml/3.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="644" column="11" lean-forward="true" selection-start-line="644" selection-start-column="11" selection-end-line="644" selection-end-column="11" />
-        </state>
+        <state relative-caret-position="-9046" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml/2005 Stanford Commencement Speech - Steve Jobs.xml">
+    <entry file="file://$PROJECT_DIR$/xml/2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
-          <caret line="733" column="11" selection-start-line="733" selection-start-column="11" selection-end-line="733" selection-end-column="11" />
-        </state>
+        <state relative-caret-position="-8801" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Bible Quotes - Various.xml">
+    <entry file="file://$PROJECT_DIR$/xml/1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="125" column="2" selection-start-line="125" selection-start-column="2" selection-end-line="125" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/Example_Sentences_181216.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="727" column="9" lean-forward="true" selection-start-line="727" selection-start-column="9" selection-end-line="727" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReadFIle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Color of the Wind - Pocahontas by Disney.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="183" column="18" selection-start-line="183" selection-start-column="18" selection-end-line="183" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml/Forrest Gump Quotes.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="736" column="11" selection-start-line="736" selection-start-column="11" selection-end-line="736" selection-end-column="11" />
+        <state relative-caret-position="359">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding>
+            <element signature="e#24#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

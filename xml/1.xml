@@ -275,12 +275,9 @@
         <word pos="cj" translation="보면서" annotation="현재분사:부사"> looking </word>
       </part>
       <part role="adj">
-        <word pos="av" translation="앞으로"> forward </word>
+        <word pos="av" translation="앞으로"> forward;</word>
       </part>
     </chunk>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation=""> ; </word>
   </part>
   <part role="sbj">
     <word pos="nn" translation="너는"> You </word>
@@ -590,10 +587,7 @@
     <word pos="be" translation="(상태)이다" annotation="be동사:상태"> is </word>
   </part>
   <part role="cpm">
-    <word pos="aj" translation="제한된" annotation="과거분사:형용사"> limited </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation=""> , </word>
+    <word pos="aj" translation="제한된" annotation="과거분사:형용사"> limited, </word>
   </part>
   <part role="lnk">
     <word pos="cj" translation="그래서"> so </word>
@@ -730,5 +724,6 @@
           </part>
         </chunk>
       </part>
-    </part>
+    </chunk>
+  </part>
 </sentence>
