@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import xml.etree.ElementTree as ET
 
-path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Reflection - Mulan of Disney.xml"
+path = "/Users/deborah/Desktop/dJangoXMLParser/xml/Zootopia Quotes - Zootopia of Disney.xml"
 
 
 f = open(path, 'r')

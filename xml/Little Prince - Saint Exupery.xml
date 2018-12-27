@@ -29,12 +29,9 @@
         <word pos="vb" translation="볼 수 있다"> can see </word>
       </part>
       <part role="adj">
-        <word pos="av" translation="올바르게"> rightly </word>
+        <word pos="av" translation="올바르게"> rightly; </word>
       </part>
     </chunk>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation=""> ; </word>
   </part>
 </sentence>
 
@@ -213,10 +210,7 @@
   <part role="cpm">
     <word pos="aj" translation="보여진" annotation="과거분사:형용사"> seen </word>
     <word pos="cj" translation="또는"> or </word>
-    <word pos="aj" translation="만져진" annotation="과거분사:형용사"> touched </word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation=""> , </word>
+    <word pos="aj" translation="만져진" annotation="과거분사:형용사"> touched, </word>
   </part>
   <part role="sbj">
     <word pos="nn" translation="그들은"> they </word>
@@ -391,14 +385,11 @@
             <word pos="pp" translation="에" annotation="전치사:in:시간"> in </word>
           </part>
           <part role="obj">
-            <word pos="nn" translation="오후"> the afternoon </word>
+            <word pos="nn" translation="오후"> the afternoon, </word>
           </part>
         </chunk>
       </part>
     </chunk>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation=""> , </word>
   </part>
   <part role="lnk">
     <word pos="cj" translation="그러면"> then </word>
@@ -448,9 +439,6 @@
   </part>
   <part role="cpm">
     <word pos="nn" translation="내 비밀,"> my secret, </word>
-    <word pos="nn" translation="매우 단순한 비밀" annotation="동격"> a very simple secret</word>
-  </part>
-  <part role="pct">
-    <word pos="pt" translation=""> : </word>
+    <word pos="nn" translation="매우 단순한 비밀" annotation="동격"> a very simple secret:</word>
   </part>
 </sentence>
